@@ -3,7 +3,7 @@ Exploring music emotion recognition using machine learning in Python, fetching s
 
 ## Credits
 
-In the emotion analysis section I benefited from this project;  [Music-Emotion-Recognition]([link-to-original-project](https://github.com/danyalimran93/Music-Emotion-Recognition)), originally created by [danyalimran93]([link-to-original-author](https://github.com/danyalimran93)).
+In the emotion analysis section I benefited from this project;  [Music-Emotion-Recognition]([https://github.com/danyalimran93/Music-Emotion-Recognition]), originally created by [danyalimran93]([https://github.com/danyalimran93]).
 
 
 
