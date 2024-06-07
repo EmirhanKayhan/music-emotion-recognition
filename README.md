@@ -4,7 +4,9 @@ Exploring music emotion recognition using machine learning in Python, fetching s
 
 # instructions
 pip install selenium
+
 pip install pytube
+
 pip install librosa
 
 # credits
